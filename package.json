@@ -1,0 +1,43 @@
+{
+  "name": "pseudo-l10n",
+  "version": "1.0.0",
+  "description": "Easy-to-use pseudo-localization generator for testing i18n implementations. Adds accented characters, text expansion, and visual markers to help identify localization issues.",
+  "main": "index.js",
+  "bin": {
+    "pseudo-l10n": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "node examples/demo.js"
+  },
+  "keywords": [
+    "i18n",
+    "l10n",
+    "pseudo-localization",
+    "pseudo-locale",
+    "internationalization",
+    "localization",
+    "testing",
+    "qa",
+    "i18next",
+    "translation"
+  ],
+  "author": "Anton Antonov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntonovAnton/pseudo-l10n.git"
+  },
+  "homepage": "https://github.com/AntonovAnton/pseudo-l10n#readme",
+  "bugs": {
+    "url": "https://github.com/AntonovAnton/pseudo-l10n/issues"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "files": [
+    "index.js",
+    "bin/",
+    "README.md",
+    "LICENSE"
+  ]
+}

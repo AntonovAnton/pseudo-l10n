@@ -1,0 +1,25 @@
+{
+  "welcome": "Welcome to our application",
+  "greeting": "Hello, {{name}}!",
+  "itemCount": "You have {{count}} items",
+  "messages": {
+    "success": "Operation completed successfully",
+    "error": "An error occurred",
+    "warning": "Please check your input"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "contact": "Contact",
+    "settings": "Settings"
+  },
+  "form": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save Changes",
+    "delete": "Delete",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email Address"
+  }
+}

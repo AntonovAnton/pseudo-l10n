@@ -1,0 +1,13 @@
+# Exclude development and Git files from npm package
+.git
+.gitignore
+.vscode
+node_modules
+
+# Exclude development files
+pseudo-locale-generator.js
+examples/
+*.webp
+
+# Keep only what's needed for the package
+# (index.js, bin/, README.md, LICENSE are included via package.json "files" field)
