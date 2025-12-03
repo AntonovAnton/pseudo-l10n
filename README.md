@@ -23,7 +23,7 @@ Pseudo-localization helps you catch i18n issues early:
 
 ## Ready to Translate?
 
-Once you've tested your i18n implementation with pseudo-localization, use [**l10n**](https://l10n.dev).dev service for AI-powered translation that preserves placeholders, respects formatting, and understands context—making professional localization effortless. [Try JSON Translation →](https://l10n.dev/ws/translate-json) or even other formats [Translate i18n files](https://l10n.dev/ws/translate-i18n-files)
+Once you've tested your i18n implementation with pseudo-localization, use [**l10n**](https://l10n.dev).dev service for AI-powered translation that preserves placeholders, respects formatting, and understands context—making professional localization effortless. [Try JSON Translation](https://l10n.dev/ws/translate-json) or even other formats [Translate i18n files](https://l10n.dev/ws/translate-i18n-files)
 
 ## Installation
 
